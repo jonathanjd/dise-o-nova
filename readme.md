@@ -1,4 +1,5 @@
 ## Curso de Git + Github
+Es un sistema de control de versiones.
 
 ### Zonas de Git
 1.- AAA
