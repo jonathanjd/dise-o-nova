@@ -1,1 +1,2 @@
-console.log('Soy Script.JS');
+var miMensaje = 'Soy Script.JS';
+console.log(miMensaje);
