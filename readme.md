@@ -1,15 +1,87 @@
-## Curso de Git + Github
-Es un sistema de control de versiones.
+# Project Diseño Nova
 
-### Zonas de Git
-1.- AAA
-2.- BBB
-3.- CCC
+One Paragraph of project description goes here
 
-### Mi Parrafo de Lorem
+## Getting Started
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris elementum massa non porta imperdiet. Cras et venenatis augue. Vestibulum tristique quis justo vel accumsan. Proin ac est mi. Sed consectetur lorem eu risus consectetur porttitor. Aenean laoreet eleifend diam sit amet consectetur. Proin vulputate dolor ut tortor rhoncus, sed vestibulum ex hendrerit. Mauris ut dolor a purus dictum posuere. Integer facilisis nulla enim, nec tempus massa dignissim vel. Aenean maximus leo eros, eu rutrum ligula eleifend hendrerit. Fusce id nisl id nulla maximus facilisis. Morbi eget auctor orci. Curabitur congue tortor justo.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-Donec porttitor nisl vel nulla consequat, eu egestas est mollis. Morbi pharetra orci in ipsum sodales, id vehicula leo finibus. Aenean euismod mattis ante. Duis sit amet arcu quis enim imperdiet aliquam a ac orci. Sed tempus egestas libero, dictum tincidunt felis faucibus eu. Morbi ut venenatis justo. In mattis iaculis tristique. Maecenas ex neque, ornare ut viverra vel, interdum vitae dui.
+### Prerequisites
 
-## New Title
+What things you need to install the software and how to install them
+
+```
+Give examples
+```
+
+### Installing
+
+A step by step series of examples that tell you have to get a development env running
+
+Say what the step will be
+
+```
+Give the example
+```
+
+And repeat
+
+```
+until finished
+```
+
+End with an example of getting some data out of the system or using it for a little demo
+
+## Running the tests
+
+Explain how to run the automated tests for this system
+
+### Break down into end to end tests
+
+Explain what these tests test and why
+
+```
+Give an example
+```
+
+### And coding style tests
+
+Explain what these tests test and why
+
+```
+Give an example
+```
+
+## Deployment
+
+Add additional notes about how to deploy this on a live system
+
+## Built With
+
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [Maven](https://maven.apache.org/) - Dependency Management
+* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+
+## Contributing
+
+Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+
+## Versioning
+
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+
+## Authors
+
+* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+
+See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* Hat tip to anyone who's code was used
+* Inspiration
+* etc
